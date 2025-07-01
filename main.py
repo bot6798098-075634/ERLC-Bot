@@ -12,6 +12,7 @@ import atexit
 import copy
 from discord.ext import commands, tasks
 
+# ----------------
 
 session: aiohttp.ClientSession | None = None
 
