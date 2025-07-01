@@ -69,10 +69,10 @@ Include:
    - **Instance Type**: Free
 6. Add Environment Variables:
    - `DISCORD_TOKEN` → *(your bot token)*  
-     👉 [**Watch How to Create & Get a Token**](https://www.youtube.com/watch?v=5l-M3V0dx5M)
+     👉 [**Watch How to Create & Get a Token**](https://www.youtube.com/watch?v=2cUg3Y50ytM)
    - `API_KEY` → *(your ERLC API key)*
 7. Click **Deploy Web Service**.
-8. Copy your URL (e.g., `https://erlc-bot-xxxxx.onrender.com`)
+8. Copy your URL (e.g., `https://erlc-bot-1wye.onrender.com`)
 
 ---
 
